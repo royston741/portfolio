@@ -67,7 +67,7 @@ const projectHtml = (item) => {
                 <h4>${item.title}</h4>
                 <div class="project-btns">
                     <a href="${item.codeLink}"><button class="project-code-btn">Code</button></a>
-                    <a href="${item.demoLink}"><button class="project-demo-btn">Deomo</button></a>
+                    <a href="${item.demoLink}"><button class="project-demo-btn">Demo</button></a>
                 </div>
             </div>`;
 
