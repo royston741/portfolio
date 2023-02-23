@@ -51,21 +51,27 @@ const frontEndArray = [
   
   
   // Backend skill array
-  const backEndArray = [
+//   const backEndArray = [
+//     {
+//       tool: "Node.js",
+//       comp: 70,
+//     },
+//     {
+//       tool: "Express.js",
+//       comp: 60,
+//     },
+//     {
+//       tool: "Python",
+//       comp: 60,
+//     }
+//   ];
+  
+ const backEndArray = [
     {
-      tool: "Node.js",
+      tool: "Java",
       comp: 70,
-    },
-    {
-      tool: "Express.js",
-      comp: 60,
-    },
-    {
-      tool: "Python",
-      comp: 60,
     }
   ];
-  
   // selecting frontend  skill section
   const backEnd = document.querySelector(".backend .skill-tools");
   
@@ -87,17 +93,17 @@ const frontEndArray = [
   
   // Backend skill array
   const databaseArray = [
-    {
-      tool: "MongoDB",
-      comp: 60,
-    },
-    {
-      tool: "Mongoose",
-      comp: 60,
-    },
+//     {
+//       tool: "MongoDB",
+//       comp: 60,
+//     },
+//     {
+//       tool: "Mongoose",
+//       comp: 60,
+//     },
     {
       tool: "MySQL",
-      comp: 40,
+      comp: 70,
     }
   ];
   
